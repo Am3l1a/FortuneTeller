@@ -1,4 +1,2 @@
 # FortuneTeller
-Fortune Telling App
-I can make changes here
-Second Commit?
+I am learning Python! Please assume everything is a draft copy and nothing is completely functional :). 
